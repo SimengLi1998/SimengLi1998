@@ -156,6 +156,14 @@ These projects are awesome as well but are not available publicly due to proprie
 
 1. "Exploring the Similar Recommendation Mechanism in Google Play Store: A Multimodal Data Fusion Approach" (Planned for SCI Journal, March 2025)
 2. "Dynamic Knowledge Weight: Automatic Enhancement of Prompt Expression" (Planned for academic conference, 2025)
+3. Time Series Analysis of Key Metrics in Google Play Store App Rankings
+4. Cross-Factor Analysis of App Rankings in Google Play Store Using Machine Learning
+5. Multimodal Data Fusion in Understanding Google Play Store Recommendation Systems
+6. Cohesion Analysis of App Recommendations in Google Play Store Based on User Behavior
+7. The Impact of User-Generated Reviews on App Visibility in the Google Play Store
+8. The Influence of User Review Interactions on App Visibility in the Google Play Store
+9. ASO Strategies for Different Stages of an App's Lifecycle in the Google Play Store
+
 
 ## 🏆 Certifications & Achievements
 
