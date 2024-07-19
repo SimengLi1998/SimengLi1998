@@ -56,44 +56,24 @@ Whether it's developing an AI-powered creative platform, optimizing app store ra
 - Assisted in developing automatic multi-point serving system for gaming products
 - Contributed to core algorithms for in-game purchasing behavior prediction, achieving 90%+ precision
 
-## 🛠️ Skills & Technologies
+## 📚 Publications & Research
 
-### Programming Languages
+### Published Papers
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VB](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+1. "Dynamic Monitoring of Google Play Store Ranking Changes: Data Mining of Important Features", The 5th International Conference on Big Data & Artificial Intelligence & Software Engineering, September 20-22, 2024
+2. "Mitigating Illusions in LLMs: The Power of Knowledge Graphs", Technology and Information journal, Paper 430073, Dec. 2023
 
-### Machine Learning & AI
+### Working Papers
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=natural-language-processing&logoColor=white)
-
-### Frameworks & Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### Data Analysis & Visualization
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### AI & NLP
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![GPT-3.5](https://img.shields.io/badge/GPT--3.5-412991?style=for-the-badge&logo=openai&logoColor=white)
+1. "Exploring the Similar Recommendation Mechanism in Google Play Store: A Multimodal Data Fusion Approach" (Planned for SCI Journal, March 2025)
+2. "Dynamic Knowledge Weight: Automatic Enhancement of Prompt Expression" (Planned for academic conference, 2025)
+3. Time Series Analysis of Key Metrics in Google Play Store App Rankings
+4. Cross-Factor Analysis of App Rankings in Google Play Store Using Machine Learning
+5. Multimodal Data Fusion in Understanding Google Play Store Recommendation Systems
+6. Cohesion Analysis of App Recommendations in Google Play Store Based on User Behavior
+7. The Impact of User-Generated Reviews on App Visibility in the Google Play Store
+8. The Influence of User Review Interactions on App Visibility in the Google Play Store
+9. ASO Strategies for Different Stages of an App's Lifecycle in the Google Play Store
 
 ## 🔥 Featured Projects
 
@@ -137,34 +117,6 @@ These projects are awesome as well but are not available publicly due to proprie
 
 - **Innovative Cultural Industries Study**: Led a group of students in data processing and analysis for the "Study of Innovative Cultural Industries under the Development of New Technology".
 
-## 📊 GitHub Stats
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SimengLi1998)](https://github.com/SimengLi1998)
-
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimengLi1998&theme=github)](https://github.com/SimengLi1998)
-
-[![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=SimengLi1998)](https://github.com/SimengLi1998)
-
-## 📚 Publications & Research
-
-### Published Papers
-
-1. "Dynamic Monitoring of Google Play Store Ranking Changes: Data Mining of Important Features", The 5th International Conference on Big Data & Artificial Intelligence & Software Engineering, September 20-22, 2024
-2. "Mitigating Illusions in LLMs: The Power of Knowledge Graphs", Technology and Information journal, Paper 430073, Dec. 2023
-
-### Working Papers
-
-1. "Exploring the Similar Recommendation Mechanism in Google Play Store: A Multimodal Data Fusion Approach" (Planned for SCI Journal, March 2025)
-2. "Dynamic Knowledge Weight: Automatic Enhancement of Prompt Expression" (Planned for academic conference, 2025)
-3. Time Series Analysis of Key Metrics in Google Play Store App Rankings
-4. Cross-Factor Analysis of App Rankings in Google Play Store Using Machine Learning
-5. Multimodal Data Fusion in Understanding Google Play Store Recommendation Systems
-6. Cohesion Analysis of App Recommendations in Google Play Store Based on User Behavior
-7. The Impact of User-Generated Reviews on App Visibility in the Google Play Store
-8. The Influence of User Review Interactions on App Visibility in the Google Play Store
-9. ASO Strategies for Different Stages of an App's Lifecycle in the Google Play Store
-
-
 ## 🏆 Certifications & Achievements
 
 - Google Analytics Individual Qualification (Feb 2022, Nov 2023)
@@ -190,3 +142,50 @@ I'm always excited to collaborate on innovative projects in:
 - Novel approaches in time series forecasting
 
 Feel free to reach out if you want to discuss data science, machine learning, or potential collaborations. Let's push the boundaries of AI together!
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VB](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### Machine Learning & AI
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+
+### Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Data Analysis & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI & NLP
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-3.5](https://img.shields.io/badge/GPT--3.5-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+## 📊 GitHub Stats
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SimengLi1998)](https://github.com/SimengLi1998)
+
+[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimengLi1998&theme=github)](https://github.com/SimengLi1998)
+
+[![Anurag's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=SimengLi1998)](https://github.com/SimengLi1998)
