@@ -24,7 +24,7 @@ When I'm not immersed in data, you'll find me exploring the latest advancements 
 
 🚀 **Impact-Driven**: My work has boosted app visibility by up to 272%, automated month-long processes into minutes, and revolutionized user engagement strategies. I'm all about creating AI solutions that drive tangible business outcomes.
 
-🌟 **Continuous Learner**: In the ever-evolving world of AI, I stay at the forefront by constantly exploring new technologies and methodologies. Currently, I'm diving deep into advanced LLM fine-tuning and ethical AI practices.
+🌟 **Continuous Learner**: In the ever-evolving world of AI, I stay at the forefront by constantly exploring new technologies and methodologies. Currently, I'm diving deep into advanced LLM application and ethical AI practices.
 
 💡 **Interdisciplinary Thinker**: My background in mechanical engineering, coupled with my expertise in data science, allows me to bring a unique perspective to problem-solving, often finding innovative solutions at the intersection of diverse fields.
 
