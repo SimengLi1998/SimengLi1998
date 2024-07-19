@@ -12,7 +12,7 @@ Aloha! I'm Simeng Li, but you can call me **Simone**. 🌟 I'm a Data Scientist 
 
 My academic journey took me through the bustling corridors of Boston University, where I earned a Master’s degree in Business Analytics, and the innovative halls of the Beijing Institute of Graphic Communication, where I delved into Mechanical Engineering and Information Management. From predictive analytics to sentiment analysis, my work spans a variety of domains, driven by a curiosity to explore and a determination to innovate.
 
-When I'm not immersed in data, you'll find me exploring the latest advancements in AI, contributing to exciting open-source projects, or perhaps enjoying a good science fiction novel.
+When I'm not immersed in data, you'll find me exploring the latest advancements in AI, contributing to exciting open-source projects, or perhaps enjoying a good movie.
 
 ### Who Am I?
 
