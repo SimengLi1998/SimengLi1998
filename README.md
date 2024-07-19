@@ -44,7 +44,7 @@ Whether it's developing an AI-powered creative platform, optimizing app store ra
 
 *July 2022 - Present*
 
-- Led development of Zhiqite AI Creative Platform, an integrated AIGC solution
+- Joined the development of Zhiqite AI Creative Platform, an integrated AIGC solution
 - Spearheaded user comment analysis system handling 100 million comments across 100+ gaming products
 - Optimized App Store visibility for 100+ game products, increasing visibility by up to 272%
 - Developed automatic tagging algorithm for 16,800 reminder themes, achieving 72% accuracy
